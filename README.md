@@ -3,7 +3,7 @@
 
 ``` CS
 private static void whoAmI() {
-  console.WriteLine("A passionate Full-Stack Developer | Always Learning, Always Building");
+  Console.WriteLine("A passionate Full-Stack Developer | Always Learning, Always Building");
 }
 ```
 <br>
